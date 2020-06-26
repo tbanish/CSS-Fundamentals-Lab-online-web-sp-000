@@ -4,7 +4,7 @@ body {
   margin: 0;
 }
 
-header, figure {text-align: center;}
+header, figure, p {text-align: center;}
 
 nav a {
   text-align: center;
