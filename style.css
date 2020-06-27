@@ -27,6 +27,7 @@ section > p {
 section > div {
   display: block;
   float: left;
+  text-align: center;
 }
 
 
