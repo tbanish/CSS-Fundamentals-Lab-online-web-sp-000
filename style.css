@@ -25,6 +25,7 @@ section > p {
 }
 
 secition > div {
+  dislpay: block
   float: left;
 }
 
