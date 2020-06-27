@@ -20,7 +20,7 @@ figcaption {
 
 
 
-section p {
+section > p {
   text-align: center;
 }
 
